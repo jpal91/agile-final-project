@@ -24,6 +24,7 @@ The challenge is to put yourself in the place of a product owner, scrum master, 
 8. Assign and move issues
 
 ### Screenshot
+![](zenhub-agile.PNG)
 
 ### Links
 - Course Link: [Link](https://www.coursera.org/learn/agile-development-and-scrum)
